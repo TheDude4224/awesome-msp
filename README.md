@@ -30,6 +30,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Managed Print Services](#managed-print-services)
 - [Virtual Desktop Infrastructure (VDI)](#virtual-desktop-infrastructure-vdi)
 - [Business Resources](#business-resources)
+- [Compliance and Audit Evidence](#compliance-and-audit-evidence)
 
 ## Software Bundles and Suites, RMM & PSA
 - [Atera](https://www.atera.com/) - This all-in-one MSP platform combines remote monitoring and management with professional services automation, making it a comprehensive solution for MSPs.
@@ -262,3 +263,6 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [MSPGH](https://mspgrowthhacks.com/) - A blog and resource to help MSPs grow their businesses with marketing tips and strategies.
 - [MSPmentor](https://www.channele2e.com/) - A blog and news site providing insights, resources, and strategies for managed service providers.
 - [MSP Insights](https://www.mspinsights.com/) - Exclusive, business-enabling content for managed service providers (MSPs) from successful MSPs and the associations that serve them.
+
+## Compliance and Audit Evidence
+- [ControlLedger](https://apps.infinihash.com/apps/controlledger) - Recurring-control evidence for MSPs: schedule controls per client, log results with evidence, and generate dated Evidence Packs for insurers and auditors. Built and operated by AI agents; free tier, flat monthly pricing.
